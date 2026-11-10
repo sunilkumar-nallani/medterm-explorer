@@ -1,6 +1,6 @@
 # MedTerm Explorer 🏥🔍
 
-**Live Demo:** [Link to your Streamlit App here]
+**Live Demo:** https://medterm-explorer.streamlit.app/
 
 ## What is this?
 MedTerm Explorer is a lightweight, interactive clinical NLP dashboard. It allows users to explore semantic relationships between medical terms, symptoms, and diagnoses. 
